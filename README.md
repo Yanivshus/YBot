@@ -1,0 +1,2 @@
+# YBot
+Cool discord bot
